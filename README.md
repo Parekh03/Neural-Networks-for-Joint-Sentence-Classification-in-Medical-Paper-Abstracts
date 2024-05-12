@@ -66,6 +66,8 @@ In this step, text vectorizer and embedding layer with proper required parameter
 
 
 ## References/Resources
+1. [Dataset research paper](https://arxiv.org/abs/1710.06071)
+2. [Research paper from which the techniques and model architectures are replicated](https://arxiv.org/abs/1612.05251) 
 1. [Udemy - Tensorflow Developer Certificate](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/?kw=tensorflow+developer+certif&src=sac)
 2. [MIT's video lecture on NLP](https://youtu.be/ySEx_Bqxvvo?si=-2BwahPRE4imhwiP)
 3. [Tensorflow's documentation](https://www.tensorflow.org/)
